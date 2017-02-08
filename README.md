@@ -1,7 +1,7 @@
 # RubyOnRails
 
 - Mysite
-Basic template created by rails new nameApp
+	Basic template created by rails new nameApp
 - MessegeApp 
-Create Messages e save in database
+	Create Messages e save in database
 
